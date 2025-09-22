@@ -17,7 +17,7 @@ HTTP Module built-in (sem frameworks tipo Express)
 TSConfig pra configurar compilação etc
 
 📁 Estrutura
-src/
+src/<br>
   ├─ controllers/    ← recebe req/res, valida dados e chama o service
   ├─ repositories/   ← acesso a dados
   ├─ services/       ← regras de negócio
