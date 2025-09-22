@@ -18,14 +18,14 @@ TSConfig pra configurar compilação etc
 
 📁 Estrutura
 src/<br>
-  ├─ controllers/    ← recebe req/res, valida dados e chama o service
-  ├─ repositories/   ← acesso a dados
-  ├─ services/       ← regras de negócio
-  ├─ utils/          ← funções auxiliares
-  ├─ models/         ← tipos/interfaces de dados
-  ├─ routes/         ← definição de rotas/endpoints
-  ├─ app.ts          ← monta a aplicação (Express, middlewares, rotas)
-  └─ server.ts       ← só inicializa o servidor
+  ├─ controllers/    ← recebe req/res, valida dados e chama o service<br>
+  ├─ repositories/   ← acesso a dados<br>
+  ├─ services/       ← regras de negócio<br>
+  ├─ utils/          ← funções auxiliares<br>
+  ├─ models/         ← tipos/interfaces de dados<br>
+  ├─ routes/         ← definição de rotas/endpoints<br>
+  ├─ app.ts          ← monta a aplicação (Express, middlewares, rotas)<br>
+  └─ server.ts       ← só inicializa o servidor<br>
   
 ⚙️ Como usar
 Clona o repo
